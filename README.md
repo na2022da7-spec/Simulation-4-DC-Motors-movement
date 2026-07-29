@@ -35,3 +35,4 @@ A complete simulation project built on **Tinkercad Circuits** demonstrating 4-wh
 3. **Phase 3: Alternating Steering (60 Seconds)**
    * The system alternates steering directions (left and right) every 5 seconds for a total duration of 60 seconds.
 
+## Tinkercad Link: https://www.tinkercad.com/things/6CKOZQQf7Ux-fantastic-hillar/editel
